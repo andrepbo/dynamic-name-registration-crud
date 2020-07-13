@@ -33,8 +33,6 @@ Clone and run the application from the command line. You'll need [Git](https://g
 
 From the command line:
 
-### Run application
-
 ```bash
 # Clone the repository
 $ git clone https://github.com/andrepbo/javascript-simple-crud

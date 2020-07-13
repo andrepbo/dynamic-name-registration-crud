@@ -22,7 +22,7 @@
 ## Application
 The application allows, in a simple way, to perform the CRUD functions (Create, Read, Update and Delete) in a list of names. Use it as a starting point to develop your own systems as needed.
 
-### Technologies used in this project:
+## Technologies used in this project:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

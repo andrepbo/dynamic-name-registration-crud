@@ -2,7 +2,7 @@
   <kbd><img src="https://user-images.githubusercontent.com/8798970/87446455-b2fc4200-c5cf-11ea-89ce-c1ce329767cb.gif" width="420" height="420" /></kbd>
 </p>
 <h4 align="center"> 
-  Simple C.R.U.D application
+  Simple name registration C.R.U.D application
 </h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/andrephillipe/">

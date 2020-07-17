@@ -1,5 +1,5 @@
 <p align="center">
-  <kbd><img src="https://user-images.githubusercontent.com/8798970/87446455-b2fc4200-c5cf-11ea-89ce-c1ce329767cb.gif" width="420" height="420" /></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/8798970/87736053-87cf4980-c7ad-11ea-89fd-734ffc539b5e.gif" /></kbd>
 </p>
 <h4 align="center"> 
   Simple name registration C.R.U.D application

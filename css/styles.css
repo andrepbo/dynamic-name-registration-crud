@@ -25,3 +25,10 @@ form input {
   border: 0;
   border-radius: 4px;
 }
+
+.developed-by {
+  margin-top: 20px;
+  font-size: small;
+  font-weight: 300;
+  color: #D3D3D3;
+}
